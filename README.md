@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BergSound
+- 👋 Hi, I’m @GiuseppeBergamino
 - 👀 I’m interested in sound design and interactive systems 
 
 <!---
